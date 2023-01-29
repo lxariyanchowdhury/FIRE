@@ -1,5 +1,5 @@
-import os
-print(" UPDATE ")
-
-import FIRE1
-FIRE1.login ()
+import os, sys
+try:
+    __import__("FIRE1").menu()
+except Exception as e:
+    exit(str(e))

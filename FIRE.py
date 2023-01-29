@@ -1,5 +1,4 @@
-#<\>!python3.11
-#-------------------Dont Edit This Script-----------------#
+
 import os,platform,time
 
 bitt=platform.architecture()[0]
@@ -12,8 +11,3 @@ if bitt=="64bit":
 else:
 
     print('\nYOUR DEVICE 32 BIT NOT SUPPORT')
-
-#---------------------------------------------------------#
-#                    THIS TOOL OWNED BY
-#                  • MAHADI HASAN AFRIDI •
-#---------------------------------------------------------#
